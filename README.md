@@ -37,7 +37,7 @@ dhika@indonesia:~$ ./hire_me.sh
 ```
 
 <!-- ============ SNAKE ============ -->
-## 🐍 Lagi Laper, Makan Commit
+## 🐍
 
 <div align="center">
   <picture>
@@ -68,20 +68,13 @@ dhika@indonesia:~$ ./hire_me.sh
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=primanandandhika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primanandandhika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="top langs" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=primanandandhika&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
-</div>
+<br/><br/>
 
-<!-- ============ ACTIVITY GRAPH ============ -->
-## 📈 Contribution Graph
+<!-- File ini digenerate otomatis oleh workflow metrics.yml -->
+<img src="./github-metrics.svg" alt="github metrics" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=primanandandhika&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
 </div>
 
 <!-- ============ TROPHIES (collapsible biar rapi) ============ -->
