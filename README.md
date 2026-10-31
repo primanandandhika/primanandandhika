@@ -37,7 +37,7 @@ dhika@indonesia:~$ ./hire_me.sh
 ```
 
 <!-- ============ SNAKE ============ -->
-## 🐍 Lagi Laper, Makan Commit
+## 🐍
 
 <div align="center">
   <picture>
