@@ -19,7 +19,7 @@
 ## 🖥️ `whoami`
 
 ```bash
-dhika@indonesia:~$ cat about.txt
+prima@indonesia:~$ cat about.txt
 
   ╭──────────────────────────────────────────────╮
   │  name      →  Primananda Andhika             │
