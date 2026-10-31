@@ -89,7 +89,7 @@ dhika@indonesia:~$ ./hire_me.sh
 <!-- ============ PROJECTS ============ -->
 ## 🚀 Projects
 
-Semua project gue ada di sini 👉 **[primananda.vercel.app](https://primananda.vercel.app)**
+All of my projects are here 👉 **[primananda.vercel.app](https://primananda.vercel.app)**
 
 <!-- ============ CONTACT ============ -->
 ## 📫 Let's Connect
