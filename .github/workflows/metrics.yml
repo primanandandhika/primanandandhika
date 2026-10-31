@@ -1,0 +1,28 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # tiap hari jam 01:00 UTC
+  workflow_dispatch:       # biar bisa dijalankan manual
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Jakarta
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8  
