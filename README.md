@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Primananda%20Andhika&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Indonesia&descAlignY=60&descSize=18" alt="header" />
 
 <a href="https://primananda.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=640&height=50&lines=Hi%2C+I'm+Dhika+%F0%9F%91%8B;Web+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Laravel+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Also+tinkering+with+Arduino+%26+C%2B%2B;Turning+coffee+into+code+%E2%98%95" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=640&height=50&lines=Hi%2C+I'm+Prima+%F0%9F%91%8B;Web+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Laravel+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Also+tinkering+with+Arduino+%26+C%2B%2B;Turning+coffee+into+code+%E2%98%95" alt="typing intro" />
 </a>
 
 <br/>
@@ -37,7 +37,7 @@ dhika@indonesia:~$ ./hire_me.sh
 ```
 
 <!-- ============ SNAKE ============ -->
-## 🐍
+## 🐍 Lagi Laper, Makan Commit
 
 <div align="center">
   <picture>
