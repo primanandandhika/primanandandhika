@@ -1,25 +1,119 @@
-<h1 align="center">Hi 👋, I'm Primananda Andhika</h1>
-<h3 align="center">A passionate web developer from Indonesia 🇮🇩</h3>
+<!-- ============ HEADER ============ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=primanandandhika&label=Profile%20views&color=0e75b6&style=flat" alt="primanandandhika" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Primananda%20Andhika&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Indonesia&descAlignY=60&descSize=18" alt="header" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=primanandandhika" alt="primanandandhika" /></a> </p>
+<a href="https://primananda.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=640&height=50&lines=Hi%2C+I'm+Dhika+%F0%9F%91%8B;Web+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Laravel+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Also+tinkering+with+Arduino+%26+C%2B%2B;Turning+coffee+into+code+%E2%98%95" alt="typing intro" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://primananda.vercel.app](https://primananda.vercel.app)
+<img src="https://komarev.com/ghpvc/?username=primanandandhika&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="profile views" />
+<a href="https://primananda.vercel.app"><img src="https://img.shields.io/badge/Portfolio-primananda.vercel.app-00f7ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="portfolio" /></a>
+<a href="mailto:primanandandhika@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="email" /></a>
 
-- 📫 How to reach me **primanandandhika@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- ============ TERMINAL ============ -->
+## 🖥️ `whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+```bash
+dhika@indonesia:~$ cat about.txt
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=primanandandhika&show_icons=true&locale=en&layout=compact" alt="primanandandhika" /></p>
+  ╭──────────────────────────────────────────────╮
+  │  name      →  Primananda Andhika             │
+  │  role      →  Web Developer                  │
+  │  location  →  Indonesia 🇮🇩                    │
+  │  frontend  →  React · Next.js · Tailwind     │
+  │  backend   →  Laravel · Node.js · Express    │
+  │  hardware  →  Arduino · C++                  │
+  │  fuel      →  Coffee ☕ + Linux 🐧            │
+  │  status    →  ● building cool stuff          │
+  ╰──────────────────────────────────────────────╯
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=primanandandhika&show_icons=true&locale=en" alt="primanandandhika" /></p>
+dhika@indonesia:~$ ./hire_me.sh
+> Permission granted. Let's build something together 🚀
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primanandandhika&" alt="primanandandhika" /></p>
+<!-- ============ SNAKE ============ -->
+## 🐍 Lagi Laper, Makan Commit
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primanandandhika/primanandandhika/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primanandandhika/primanandandhika/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/primanandandhika/primanandandhika/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- ============ TECH STACK ============ -->
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,webpack" alt="frontend" />
+
+**Backend & Database**<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,mysql,postgres,mongodb,sqlite" alt="backend" />
+
+**Tools, DevOps & Hardware**<br/>
+<img src="https://skillicons.dev/icons?i=git,linux,nginx,postman,figma,cpp,arduino" alt="tools" />
+
+</div>
+
+<!-- ============ STATS ============ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=primanandandhika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=primanandandhika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=primanandandhika&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+
+</div>
+
+<!-- ============ ACTIVITY GRAPH ============ -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=primanandandhika&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
+</div>
+
+<!-- ============ TROPHIES (collapsible biar rapi) ============ -->
+<details>
+<summary><b>🏆 Trophy Cabinet (klik buat buka)</b></summary>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=primanandandhika&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
+</div>
+</details>
+
+<!-- ============ PROJECTS ============ -->
+## 🚀 Projects
+
+Semua project gue ada di sini 👉 **[primananda.vercel.app](https://primananda.vercel.app)**
+
+<!-- ============ CONTACT ============ -->
+## 📫 Let's Connect
+
+<div align="center">
+
+📧 **primanandandhika@gmail.com**
+
+<!-- Tambahin sosmed lu di sini kalau mau, contoh:
+<a href="https://linkedin.com/in/USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/USERNAME"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+-->
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&lines=%22It+works+on+my+machine%22+%E2%80%94+every+dev+ever;git+commit+-m+%22fix+bug%22+(adds+3+new+bugs);There+are+only+10+types+of+people+in+the+world" alt="dev jokes" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" alt="footer" />
+
+</div>
