@@ -79,7 +79,7 @@ dhika@indonesia:~$ ./hire_me.sh
 
 <!-- ============ TROPHIES (collapsible biar rapi) ============ -->
 <details>
-<summary><b>🏆 Trophy Cabinet (klik buat buka)</b></summary>
+<summary><b>🏆 Trophy Cabinet</b></summary>
 <br/>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=primanandandhika&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
